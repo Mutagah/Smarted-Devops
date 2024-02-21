@@ -11,7 +11,7 @@ Script Setup Instructions
 Prerequisite
 ##### Have [ssmtp configured](https://www.digitalocean.com/community/questions/how-to-send-emails-from-a-bash-script-using-ssmtp)
 
-#### Have a platform to run the bash script either wsl or a locally running ubuntu operating system
+##### Have a platform to run the bash script either wsl or a locally running ubuntu operating system
 
 #####   1.  First, clone [Smarted-Devops-] and change the directory to the cloned folder using `cd Smarted-Devops-`
 
