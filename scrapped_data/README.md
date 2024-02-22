@@ -18,3 +18,5 @@ Prerequisite
 #####   3.  Run your python file `data_scrapper.py` with: `python data_scrapper.py` command
 
 #####   4.  The program should run smoothly and should generate an xlsx file in the same directory.
+
+#####   5.  Save your file to your prefered location to enable viewing of the file.
